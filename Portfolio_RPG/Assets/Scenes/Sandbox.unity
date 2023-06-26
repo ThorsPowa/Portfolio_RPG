@@ -1695,6 +1695,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: FollowCamera
       objectReference: {fileID: 0}
+    - target: {fileID: 7252478150399069068, guid: 9747f5176aa021241a08ec20566e51e7,
+        type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 1808291564}
     - target: {fileID: 7271591572067082170, guid: 9747f5176aa021241a08ec20566e51e7,
         type: 3}
       propertyPath: target
@@ -1774,5 +1779,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3827831732779432995, guid: d63e8bdde5655ce44b18bbc3bd5f545c, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d63e8bdde5655ce44b18bbc3bd5f545c, type: 3}
